@@ -1056,7 +1056,7 @@ body.offcanvas .colorlib-nav-toggle {
 .progress-bar span {
   position: absolute;
   top: -22px;
-  right: 0.5;
+  right: 1;
 }
 
 .progress-bar.color-1 {
